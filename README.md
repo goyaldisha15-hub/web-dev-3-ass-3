@@ -13,7 +13,7 @@ Node.js, Express.js, MongoDB, Mongoose, dotenv, Postman (for testing)
 1. `npm install`
 2. Start MongoDB and set `PORT` and `MONGO_URI` in `.env`
 3. `node server.js`
-4. Test the APIs in Postman at `http://localhost:5000/api/products`
+4. Test the APIs in Postman/Thunderclient at `http://localhost:5000/api/products`
 
 ---
 
