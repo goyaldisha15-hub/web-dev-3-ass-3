@@ -1,8 +1,5 @@
 # Assignment 3: Inventory and Data Management System
 
-**Course:** Web Dev III | **Unit:** 3 | **CO:** CO3
-**Name:** <your name> | **Roll No:** <your roll no>
-
 ## Aim
 To build a RESTful backend using Node.js, Express.js and MongoDB (Mongoose) that manages a product catalogue: CRUD operations, stock adjustment, filtering, sorting, pagination and inventory reports using aggregation.
 
