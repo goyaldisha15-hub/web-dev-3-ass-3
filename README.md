@@ -26,7 +26,7 @@ Node.js, Express.js, MongoDB, Mongoose, dotenv, Postman (for testing)
 
 ### 3. Update Product
 
-![Update Product](screenshots3.png)
+![Update Product](screenshots/3.png)
 
 ### 4. Delete Product
 
